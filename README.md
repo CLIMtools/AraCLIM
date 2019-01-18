@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png">
+<img align="left" width="100" height="100" src="https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png">
 
 # [AraCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM")
 
