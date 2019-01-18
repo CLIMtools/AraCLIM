@@ -1,4 +1,7 @@
 
+
+(https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)](https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)
+
 # [AraCLIM](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM")
 
 AraCLIM (https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM") is an SHINY component of Arabidopsis CLIMtools (http://www.personal.psu.edu/sma3/CLIMtools.html "Arabidopsis CLIMtools")  that provides an interactive spatial analysis web platform using Leaflet. Data points represent the sites of collection of sequenced accessions in an interactive world map. AraCLIM (https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM") allows the inspection of two environment variables simultaneously. The user can first choose an environmental variable (Environmental variable A) that is displayed on the map using a color gradient within the ranges and units detailed in the color palette within the map. Clicking on any of the data points on the map provides information on the selected accession, including its curation details, and the value of the chosen environmental variable for the selected accession.
