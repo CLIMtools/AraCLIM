@@ -1,4 +1,4 @@
-
+[![](https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)](https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)
 
 [![]((https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)](https://github.com/CLIMtools/AraCLIM/blob/master/www/picture2.png)
 
