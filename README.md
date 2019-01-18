@@ -10,7 +10,7 @@
 The environmental data compiled in our study is available in the data/ folder. One of the data files contains the data, and the second one contains the description of each of the environmental parameters used. For a more detailed description of these, please check the SI of our study.
 
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
-**Ferrero-Serrano, Á & Assmann SM.** *Phenotypic and genome-wide association with the local environment of Arabidopsis*. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
+**Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
 
 
 
