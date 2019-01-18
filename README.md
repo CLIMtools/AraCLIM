@@ -6,6 +6,8 @@ AraCLIM (https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM") is a
 AraCLIM allows the user to analyze pairwise environmental conditions for these 1,131 accessions using the ggvis package in SHINY. The environmental variable selected on the map (Environmental variable A) can be compared with a second environmental variable that is user-specified (Environmental variable B); the two variables are displayed with a linear correlation provided based on data for the local environments of the 1,131 accessions. We also provide an interactive tabulated database describing the environmental variables available at AraCLIM, including their source, units and period of data collection using the DT package in SHINY.
 
 # [Data availability]("https://github.com/CLIMtools/AraCLIM/tree/master/data")
+# [data availability](https://www.nature.com/articles/s41559-018-0754-5)
+
 
 The environmental data compiled in our study is available in the data/ folder. One of the data files contains the data, and the second one contains the description of each of the environmental parameters used. For a more detailed description of these, please check the SI of our study.
 
