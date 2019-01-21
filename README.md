@@ -5,6 +5,8 @@
 
 [**AraCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/) allows  the inspection of two environment variables simultaneously using the [ggvis](https://ggvis.rstudio.com/interactivity.html)  package in [SHINY](https://shiny.rstudio.com/). The more than 200 environmental variables that can be selected on the map can be compared with a second environmental variable that is user-specified; the two variables are displayed with a linear correlation provided based on data for the local environments of the 1,131 accessions. We also provide an interactive tabulated database describing the environmental variables available at [**AraCLIM**](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/), including their source, units and period of data collection using the [DT](https://rstudio.github.io/DT/) package in [SHINY](https://shiny.rstudio.com/). 
 
+Please visit the [Assmann lab](http://www.personal.psu.edu/sma3/) to learn about other interesting research topics.
+
 ## [Data availability](https://github.com/CLIMtools/AraCLIM/tree/master/data)
 
 The environmental data compiled in our study is available in the [data/ folder](https://github.com/CLIMtools/AraCLIM/tree/master/data). One of the data files contains the data, and the second one contains the description and the source of each of the environmental parameters used. For a more detailed description of these, please check the "Description of climate variables" tab, and the SI of [our study](https://www.nature.com/articles/s41559-018-0754-5).
