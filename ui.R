@@ -50,7 +50,7 @@ shinyUI(fluidPage(
                           ))),
               uiOutput("ui")
             ),
-            wellPanel(a(h4('Please cite us:'),  href = "https://www.nature.com/articles/s41559-018-0754-5", h6('Ferrero-Serrano, Á & Assmann SM. Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)' ))),
+            wellPanel(a(h4('Please cite us in any publication that utilizes information from CLIMtools:'),  href = "https://www.nature.com/articles/s41559-018-0754-5", h6('Ferrero-Serrano, Á & Assmann SM. Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)' ))),
             wellPanel(
               a("Tweets by @ClimTools", class = "twitter-timeline"
                 , href = "https://twitter.com/ClimTools"),
