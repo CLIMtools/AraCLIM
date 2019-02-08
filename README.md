@@ -14,7 +14,7 @@ The environmental data compiled in our study is available in the [data/ folder](
 ## [Citation](https://www.nature.com/articles/s41559-018-0754-5)
 **Ferrero-Serrano, Á & Assmann SM.** Phenotypic and genome-wide association with the local environment of Arabidopsis. Nature Ecology & Evolution. doi: 10.1038/s41559-018-0754-5 (2019)
 
-[**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?shared_access_token=7G2rqgz5YIsUFUQDzOOwwtRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4wDh1E_905NLgAEUDsgSxMeCUvfrdwzMerY68l_0xqLtN4hZkD3eeuiMuub_3wA-0ai22Mkp6nj-1R1gfz5uNZNn7voROoJdRKIabCXqxz3ko%3D)
+[<img align="left" width="150" height="150" src="https://github.com/CLIMtools/AraCLIM/SN.png">] [**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?shared_access_token=7G2rqgz5YIsUFUQDzOOwwtRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4wDh1E_905NLgAEUDsgSxMeCUvfrdwzMerY68l_0xqLtN4hZkD3eeuiMuub_3wA-0ai22Mkp6nj-1R1gfz5uNZNn7voROoJdRKIabCXqxz3ko%3D)
 
 [<img align="center" src="https://github.com/CLIMtools/AraCLIM/blob/master/Screen Shot.png">](https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM")
 
