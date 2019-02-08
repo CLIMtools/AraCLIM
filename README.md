@@ -17,7 +17,4 @@ The environmental data compiled in our study is available in the [data/ folder](
 [**Read-only link to our paper**](https://www.nature.com/articles/s41559-018-0754-5.epdf?author_access_token=-XAHfjk0t-xpfiAKsAyGWtRgN0jAjWel9jnR3ZoTv0MbnmJteG8gNCxdeNQO1H4w_SmcB99HlQmvk-xORaUBXHbhOHQJv3G6r40i4WmSFedhvQDmjJodK4yv2BRfG7uowtsRL1Za0vHy8o3wpxL4Jw%3D%3D)
 
 
-[<img align="center" src="https://github.com/CLIMtools/AraCLIM/blob/master/Screen Shot.png">] 
-
-
-
+[<img align="center" src="https://github.com/CLIMtools/AraCLIM/blob/master/Screen Shot.png">] (https://rstudio.aws.science.psu.edu:3838/aaf11/AraCLIM/ "AraCLIM")
