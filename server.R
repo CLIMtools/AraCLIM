@@ -289,7 +289,7 @@ shinyServer(function(input, output) {
       ######Big plot X vs y
       reactive({
         ggvisdf %>% 
-          ggvis(~y,~x) %>%
+          ggvis(~x,~y) %>%
           set_options(width = "auto", height = "auto", resizable=TRUE) %>%    
           # add_axis("x", title = xVar())  %>% 
           add_axis("x", title = xVar(), grid = TRUE, title_offset = 40,  properties = axis_props(
