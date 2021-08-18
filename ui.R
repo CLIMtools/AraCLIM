@@ -73,12 +73,12 @@ shinyUI(fluidPage(
           fixedRow(
             column(
               12,
-              jqui_draggabled(fluidRow(
+              jqui_draggable(fluidRow(
               wellPanel(
                 div(style = "height: 435px;", style = "padding:20px;",
                     ggvisOutput("p"))
               ))),
-              jqui_draggabled(wellPanel(fluidRow(
+              jqui_draggable(wellPanel(fluidRow(
                 column(
                   width = 6,
                   h3(textOutput("selected_bothb")),
