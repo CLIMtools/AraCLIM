@@ -1,5 +1,5 @@
-lng	lng	Coordinates
-lat	lat	Coordinates
+lng	Longitude (degrees)	Coordinates
+lat	Latitude (degrees)	Coordinates
 id	id	-
 name	name	-
 country	country	-

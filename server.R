@@ -18,7 +18,7 @@ shinyServer(function(input, output) {
           addProviderTiles("Esri.NatGeoWorldMap", group = "Esri.NatGeoWorldMap") %>%
           addProviderTiles("Esri.OceanBasemap", group = "Esri.OceanBasemap") %>%
           addProviderTiles("CartoDB.DarkMatter", group = "DarkMatter (CartoDB)") %>%
-          addHeatmap(lng = ~lng, lat = ~lat, radius = 5) %>%
+          addHeatmap(lng = ~`Longitude (degrees)`, lat = ~`Latitude (degrees)`, radius = 5) %>%
           setView(lng = 0, lat = 50, zoom = 2) %>%
           addLayersControl(baseGroups = c("OpenStreetmap","OpenTopoMap",'Esri.WorldImagery',"Esri.WorldGrayCanvas","Esri.NatGeoWorldMap","Esri.OceanBasemap",'DarkMatter (CartoDB)' ),
                            options = layersControlOptions(collapsed = TRUE, autoZIndex = F, position = 'bottomleft' ))
@@ -50,8 +50,8 @@ shinyServer(function(input, output) {
         
       })
       
-      output$yvar <- renderUI(selectInput('yvar',label='Environmental variable B',choices = datasets[['cats']]))
-      output$xvar <- renderUI(selectInput('xvar',label='Environmental variable A (mapped)',choices = datasets[['cats']]))
+      output$yvar <- renderUI(selectInput('yvar',label='Environmental variable B',choices = datasets[['cats']], selected='NASA: SRTM elevation (m)'))
+      output$xvar <- renderUI(selectInput('xvar',label='Environmental variable A (mapped)',choices = datasets[['cats']], selected='Solar insolation spring (W/m2)'))
       
       xVar <- reactive({
         print('xVar')
@@ -61,12 +61,7 @@ shinyServer(function(input, output) {
       
       yVar <- reactive({
         if(is.null(input$yvar)) return(names(df)[2])
-        input$yvar})
-      xVar <- reactive({
-        print('colVar')
-        if(is.null(input$color)) return(names(df)[2])
-        input$color})
-      
+        input$yvar})      
       
       
       IDVar <- reactive({
@@ -80,7 +75,7 @@ shinyServer(function(input, output) {
       ggvisdf <- reactive({
         print('ggvesdf1')
         df1 <- df@data
-        gdf <- df1[, c(xVar(), yVar(), "lng", "lat")]
+        gdf <- df1[, c(xVar(), yVar(), "Longitude (degrees)", "Latitude (degrees)")]
         names(gdf) <- c("x", "y", "lng", "lat")
         gdf
       })  
