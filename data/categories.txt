@@ -1,0 +1,28 @@
+NASA: CERES
+Physical terrain
+Coordinates
+NASA: MOPITT
+NASA: OMI
+SiB3 Modeled Global Atmosphere Carbon Flux
+NASA: FLASHFlux
+NASA: GRACE
+Tropical Rainfall Monitoring Mission (TRMM)
+NASA: MOD05L2
+NASA: MOD11C3
+NASA: MOD13Q1
+NASA: MOD15A2
+NASA: MOD16A2
+NASA: MOD17A2
+AVHRR Vegetation Health Product (NOAA STAR)
+WORLD BANK Global Solar Atlas
+GPCC Global Precipitation Climatology Centre
+WorldClim 2.0
+CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CRU-TS v3.10.01
+FAO World maps of climatological net primary production of biomass
+FAO Koeppen Climatology
+Harmonized World Soil Database v 1.2
+Global data set of derived soil properties (ISRIC WISE)
+ISRIC Soilgrids
+FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+Other

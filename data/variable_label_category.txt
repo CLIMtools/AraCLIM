@@ -1,0 +1,210 @@
+lng	Longitude (degrees)	Coordinates
+lat	Latitude (degrees)	Coordinates
+id	id	-
+name	name	-
+country	country	-
+CS_number	CS_number	-
+group	group	-
+CO_Spring	CO Spring (ppbv)	NASA: MOPITT
+CO_Summer	CO Summer (ppbv)	NASA: MOPITT
+NO2_Spring	NO2 Spring (billion molecules/mm2)	NASA: OMI
+NO2_Summer	NO2 Summer (billion molecules/mm2)	NASA: OMI
+O3_Spring	O3 Spring (Dobson Units)	NASA: OMI
+O3_Summer	O3 Summer (Dobson Units)	NASA: OMI
+SIB3_carbon_flux_spring	SIB3 carbon flux spring (mol/m2/seg)	SiB3 Modeled Global Atmosphere Carbon Flux
+SIB3_carbon_flux_summer	SIB3 carbon flux summer (mol/m2/seg)	SiB3 Modeled Global Atmosphere Carbon Flux
+UV_index_spring	UV index spring	NASA: OMI
+UV_index_summer	UV index summer	NASA: OMI
+Solar_insolation_spring	Solar insolation spring (W/m2)	NASA: CERES
+Solar_insolation_summer	Solar insolation summer (W/m2)	NASA: CERES
+Net_radiation_spring	Net radiation spring (W/m2)	NASA: FLASHFlux
+Net_radiation_summer	Net radiation summer (W/m2)	NASA: FLASHFlux
+WATER_EQUIVALENT_ANOMALY_spring	Water eq. anomaly spring (cm)	NASA: GRACE
+WATER_EQUIVALENT_ANOMALY_summer	Water eq. anomaly summer (cm)	NASA: GRACE
+Rainfall_spring	Rainfall spring (mm)	Tropical Rainfall Monitoring Mission (TRMM)
+Rainfall_summer	Rainfall summer (mm)	Tropical Rainfall Monitoring Mission (TRMM)
+Precipitable_water_spring	Precipitable water spring (cm)	NASA: MOD05L2
+Precipitable_water_summer	Precipitable water summer (cm)	NASA: MOD05L2
+LTemp_day_spring	LTemp day spring (°C)	NASA: MOD11C3
+LTemp_day_summer	LTemp day summer (°C)	NASA: MOD11C3
+Ltemp__night_spring	LTemp night spring (°C)	NASA: MOD11C3
+Ltemp__night_summer	LTemp night summer (°C)	NASA: MOD11C3
+NDVI_Spring	NDVI Spring	NASA: MOD13Q1
+NDVI_Summer	NDVI Summer	NASA: MOD13Q1
+LAI_Spring	LAI Spring (m2/m2)	NASA: MOD15A2
+LAI_Summer	LAI Summer (m2/m2)	NASA: MOD15A2
+PET	PET (mm/yr)	NASA: MOD16A2
+ET	ET (mm/yr)	NASA: MOD16A2
+LE	LE (W/m2)	NASA: MOD16A2
+Aridity_index	Aridity index	NASA: MOD16A2
+Climatic_water_deficit	Climatic water deficit (mm/yr)	NASA: MOD16A2
+Number_of_dry_months	Number of dry months (days)	NASA: MOD16A2
+GPP_Spring	GPP Spring (gC/m2/day)	NASA: MOD17A2
+GPP_Summer	GPP Summer (gC/m2/day)	NASA: MOD17A2
+NPP_Spring	NPP Spring (gC/m2/day)	NASA: MOD17A2
+NPP_Summer	NPP Summer (gC/m2/day)	NASA: MOD17A2
+Topography	USGS:GTOPO30 Topography (m)	Physical terrain
+SRTM elevation	NASA: SRTM elevation (m)	Physical terrain
+SMT_Spring	AVHRR Smoothed Brightness Temperature summer	AVHRR Vegetation Health Product (NOAA STAR)
+SMT_Summer	AVHRR Smoothed Brightness Temperature spring	AVHRR Vegetation Health Product (NOAA STAR)
+SMN_Spring	AVHRR Smoothed NDVI spring	AVHRR Vegetation Health Product (NOAA STAR)
+SMN_Summer	AVHRR Smoothed NDVI summer	AVHRR Vegetation Health Product (NOAA STAR)
+TCI_Spring	AVHRR Temperature Condition Index spring	AVHRR Vegetation Health Product (NOAA STAR)
+TCI_Summer	AVHRR Temperature Condition Index summer	AVHRR Vegetation Health Product (NOAA STAR)
+VCI_Spring	AVHRR Vegetation Condition Index spring	AVHRR Vegetation Health Product (NOAA STAR)
+VCI_Summer	AVHRR Vegetation Condition Index summer	AVHRR Vegetation Health Product (NOAA STAR)
+VHI_Spring	AVHRR Vegetation Health Index spring	AVHRR Vegetation Health Product (NOAA STAR)
+VHI_Summer	AVHRR Vegetation Health Index summer	AVHRR Vegetation Health Product (NOAA STAR)
+CO2_Emissions	ISLSCP II CO2 EMISSIONS (C/cm2/sec)	Other
+WB_PVOUT	WB PVOUT (kWh/kWp)	WORLD BANK Global Solar Atlas
+WB_GHI	WB GHI (kWh/m2)	WORLD BANK Global Solar Atlas
+WB_DIF	WB DIF (kWh/m2)	WORLD BANK Global Solar Atlas
+WB_GTI	WB GTI (kWh/m2)	WORLD BANK Global Solar Atlas
+WB_OPTA	WB OPTA (degrees)	WORLD BANK Global Solar Atlas
+WB_DNI	WB DNI (kWh/m2)	WORLD BANK Global Solar Atlas
+WB_TEMP	WB TEMP (°C)	WORLD BANK Global Solar Atlas
+WC_ELE	WB ELE (m)	WORLD BANK Global Solar Atlas
+GPCC_Spring	GPCC Spring (mm)	GPCC Global Precipitation Climatology Centre
+GPCC_Summer	GPCC Summer (mm)	GPCC Global Precipitation Climatology Centre
+WC2_Tmin_spring	WC2 Tmin spring (°C)	WorldClim 2.0
+WC2_Tmin_summer	WC2 Tmin summer (°C)	WorldClim 2.0
+WC2_Tmax_spring	WC2 Tmax spring (°C)	WorldClim 2.0
+WC2_Tmax_summer	WC2 Tmax summer (°C)	WorldClim 2.0
+WC2_Pre_spring	WC2 Pre spring (mm)	WorldClim 2.0
+WC2_Pre_summer	WC2 Pre summer (mm)	WorldClim 2.0
+WC2_Solar_radiation_spring	WC2 Solar radiation spring (kJ m-2 day-1)	WorldClim 2.0
+WC2_Solar_radiation_summer	WC2 Solar radiation summer (kJ m-2 day-1)	WorldClim 2.0
+WC2_Average_temperature_spring	WC2 Average temperature spring (°C)	WorldClim 2.0
+WC2_Average_temperature_summer	WC2 Average temperature summer (°C)	WorldClim 2.0
+WC2_Water_vapor_pressure_spring	WC2 Water vapor pressure spring (kPa)	WorldClim 2.0
+WC2_Water_vapor_pressure_summer	WC2 Water vapor pressure summer (kPa)	WorldClim 2.0
+WC2_BIO1	WC BIO1 (°C)	WorldClim 2.0
+WC2_BIO2	WC2_BIO2 (°C)	WorldClim 2.0
+WC2_BIO3	WC2_BIO3 (°C)	WorldClim 2.0
+WC2_BIO4	WC2 BIO4 (°C)	WorldClim 2.0
+WC2_BIO5	WC2 BIO5 (°C)	WorldClim 2.0
+WC2_BIO6	WC2 BIO6 (°C)	WorldClim 2.0
+WC2_BIO7	WC2 BIO7 (°C)	WorldClim 2.0
+WC2_BIO8	WC2 BIO8 (°C)	WorldClim 2.0
+WC2_BIO9	WC2 BIO9 (°C)	WorldClim 2.0
+WC2_BIO10	WC2 BIO10 (°C)	WorldClim 2.0
+WC2_BIO11	WC2 BIO11 (°C)	WorldClim 2.0
+WC2_BIO12	WC2 BIO12 (mm)	WorldClim 2.0
+WC2_BIO13	WC2 BIO13 (mm)	WorldClim 2.0
+WC2_BIO14	WC2 BIO14 (mm)	WorldClim 2.0
+WC2_BIO15	WC2 BIO15 (mm)	WorldClim 2.0
+WC2_BIO16	WC2 BIO16 (mm)	WorldClim 2.0
+WC2_BIO17	WC2 BIO17 (mm)	WorldClim 2.0
+WC2_BIO18	WC2 BIO18 (mm)	WorldClim 2.0
+WC2_BIO19	WC2 BIO19 (mm)	WorldClim 2.0
+CHELSA_Tmin_Spring	CHELSA Tmin Spring (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Tmin_spring	CHELSA Tmin spring (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Tmax_spring	CHELSA Tmax spring (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Tmax_summer	CHELSA Tmax summer (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Tmean_spring	CHELSA Tmean spring (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Tmean_summer	CHELSA Tmean summer (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Interann_Temp	CHELSA Interann_Temp (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Pre_spring	CHELSA Pre spring (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Pre_summer	CHELSA Pre summer (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_Interann_pre	CHELSA Interann pre (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO1	CHELSA BIO1 (°C)	-
+CHELSA_BIO2	CHELSA BIO2 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO3	CHELSA BIO3 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO4	CHELSA BIO4 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO5	CHELSA BIO5 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO6	CHELSA BIO6 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO7	CHELSA BIO7 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO8	CHELSA BIO8 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO9	CHELSA BIO9 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO10	CHELSA BIO10 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO11	CHELSA BIO11 (°C)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO12	CHELSA BIO12 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO13	CHELSA BIO13 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO14	CHELSA BIO14 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO15	CHELSA BIO15 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO16	CHELSA BIO16 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO17	CHELSA BIO17 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO18	CHELSA BIO18 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CHELSA_BIO19	CHELSA BIO19 (mm)	CHELSA (Climatologies at high resolution for the earth’s land surface areas) 
+CRU_Cld_spring	CRU Cld spring (%)	CRU-TS v3.10.01
+CRU_Cld_summer	CRU Cld summer (%)	CRU-TS v3.10.01
+CRU_Dtr_spring	CRU Dtr spring (°C)	CRU-TS v3.10.01
+CRU_Dtr_summer	CRU Dtr summer (°C)	CRU-TS v3.10.01
+CRU_Frs_spring	CRU Frs spring (days)	CRU-TS v3.10.01
+CRU_Frs_summer	CRU Frs summer (days)	CRU-TS v3.10.01
+CRU_Pre_spring	CRU Pre spring (mm)	CRU-TS v3.10.01
+CRU_Pre_summer	CRU Pre summer (mm)	CRU-TS v3.10.01
+CRU_Tmp_spring	CRU Tmp spring (°C)	CRU-TS v3.10.01
+CRU_Tmp_summer	CRU Tmp summer (°C)	CRU-TS v3.10.01
+CRU_Tmn_spring	CRU Tmn spring (°C)	CRU-TS v3.10.01
+CRU_Tmn_summer	CRU Tmn summer (°C)	CRU-TS v3.10.01
+CRU_Tmx_spring	CRU Tmx spring (°C)	CRU-TS v3.10.01
+CRU_Tmx_summer	CRU Tmx summer (°C)	CRU-TS v3.10.01
+CRU_Vap_spring	CRU Vap spring (hPa)	CRU-TS v3.10.01
+CRUVap_summer	CRUVap_summer (hPa)	CRU-TS v3.10.01
+CRU_Wet_spring	CRU Wet spring (days)	CRU-TS v3.10.01
+CRU_Wet_summer	CRU Wet summer (days)	CRU-TS v3.10.01
+CRU_PET_Spring	CRU PET Spring (mm)	CRU-TS v3.10.01
+CRU_PET_Summer	CRU PET Summer (mm)	CRU-TS v3.10.01
+Bedrock_topography	Bedrock topography (meters)	Physical terrain
+dNPPdP	dNPPdP (g/m2/mm)	FAO World maps of climatological net primary production of biomass
+dNPPdT	dNPPdT (g/m2/ºC)	FAO World maps of climatological net primary production of biomass
+CRU_NPP	CRU NPP (g/m2)	FAO World maps of climatological net primary production of biomass
+NPP_based_on_GPCP	NPP based on GPCP (g/m2)	FAO World maps of climatological net primary production of biomass
+NPP_based_on_GPCP_VASClimO	NPP based on GPCP VASClimO  (g/m2)	FAO World maps of climatological net primary production of biomass
+GPCC_VASClimO_Precipitation	GPCC VASClimO Precipitation (mm)	FAO Koeppen Climatology
+CRU_Precipitation	CRU Precipitation (mm)	FAO Koeppen Climatology
+CRU_Temperature	CRU_Temperature (ºC)	FAO Koeppen Climatology
+Griesser_Precip_GPCC	Griesser_Precip_GPCC (mm)	FAO Koeppen Climatology
+GPCC_Fulldata_Precipitation	GPCC Fulldata Precipitation	FAO Koeppen Climatology
+Aridity_index_of_De_Martonne_GPCC_Fulldata	Aridity index of De Martonne GPCC Fulldata	FAO Koeppen Climatology
+Aridity_index_of_De_Martonne_GPCC_VASClimO	Aridity index of De Martonne GPCC VASClimO	FAO Koeppen Climatology
+Aridity_index_of_De_Martonne_CRU	Aridity index of De Martonne CRU	FAO Koeppen Climatology
+HWSD_Topsoil_ref_bulk_dens	HWSD Topsoil ref bulk dens (kg/dm3)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_clay_fraction	HWSD Topsoil clay fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_gravel_content	HWSD Topsoil gravel content (%)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_silt_fraction	HWSD Topsoil silt fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_sand_fraction	HWSD Topsoil sand fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_organic_carbon	HWSD Topsoil organic carbon (%)	Harmonized World Soil Database v 1.2
+HWSD_Topsoil_pH	HWSD Topsoil pH (-log(H+))	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_ref_bulk_dens	HWSD Subsoil ref bulk dens (kg/dm3)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_clay_fraction	HWSD Subsoil clay fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_gravel_content	HWSD Subsoil gravel content (%)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_silt_fraction	HWSD Subsoil silt fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_sand_fraction	HWSD Subsoil sand fraction (%)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_organic_carbon	HWSD Subsoil organic carbon (%)	Harmonized World Soil Database v 1.2
+HWSD_Subsoil_pH	HWSD Subsoil pH (-log(H+))	Harmonized World Soil Database v 1.2
+HWSD_Spatially_dominan_major_soil_group_FAO	HWSD Spatially dominan major soil group FAO	Harmonized World Soil Database v 1.2
+ISRIC_WISE_SoilCarbonate_Carbon_Dens	ISRIC WISE SoilCarbonate Carbon Dens (kg C/m)	Global data set of derived soil properties (ISRIC WISE)
+ISRIC_WISE_Soil_Org_Carbon_Dens	ISRIC WISE Soil Org Carbon Dens (kg C/m)	Global data set of derived soil properties (ISRIC WISE)
+ISRIC_WISE_Soil_pH	ISRIC WISE Soil pH (log(H+))	Global data set of derived soil properties (ISRIC WISE)
+ISRIC_WISE_Total_AvailWater_cap	ISRIC WISE Total AvailWater cap (mm)	Global data set of derived soil properties (ISRIC WISE)
+SoilGrids_BDRICM	SoilGrids absolute depth to bedrock (cm)	ISRIC Soilgrids
+SoilGrids_BLDFIE	SoilGrids bulk density (kg/m3)	ISRIC Soilgrids
+SoilGrids_CECSOL	SoilGrids cation exchange capacity of soil (meq/100 g)	ISRIC Soilgrids
+SoilGrids_CLYPPT	SoilGrids clay content (%)	ISRIC Soilgrids
+SoilGrids_CRFVOL	SoilGrids course fragments volumetric (%)	ISRIC Soilgrids
+SoilGrids_OCSTHA	SoilGrids soil organic carbon stock per ha (kg/m3)	ISRIC Soilgrids
+SoilGrids_ORCDRC	SoilGrids soil organic carbon content (‰)	ISRIC Soilgrids
+SoilGrids_PHIHOX	SoilGrids soil pH H2O (log(H+))	ISRIC Soilgrids
+SoilGrids_PHIKCL	SoilGrids soil pH KCL (log(H+))	ISRIC Soilgrids
+SoilGrids_SLTPPT	SoilGrids silt content (%)	ISRIC Soilgrids
+SoilGrids_SNDPPT	SoilGrids sand content (%)	ISRIC Soilgrids
+GAEZ_Nutrient_availability	GAEZ Nutrient availability	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+GAEZ_Nutrient_retention_capacity	GAEZ Nutrient retention capacity	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+GAEZ_Rooting_conditions	GAEZ Rooting conditions	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+GAEZ_Oxygen_availability_to_roots	GAEZ Oxygen availability to roots	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+GAEZ_Excess_salts	GAEZ Excess salts	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+GAEZ_Toxicity	GAEZ Toxicity	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+Plant_Extractable_Water_Capacity_of_Soil	Plant extractable water capacity of Soil (cm/cm)	Other
+IGBP_DIS_Soil_pH	IGBP DIS Soil pH (-log(H+))	Other
+Suitability_for_Agriculture	Suitability for Agriculture (index)	FAO Global Agro-ecological Zones Assessment for Agriculture (GAEZ 2008)
+Growing_degree_days	Growing degree (days)	CRU-TS v3.10.01
+Distance_to_the_coast	Distance to the coast (Km)	Physical terrain
+Bailey_ecoregions	Bailey ecoregions	-
+Land_cover_2000	Land cover 2000	-
+UMD_Land_cover_classification	UMD Land cover classification	-
+Distribution_of_Cultivation_Intensity	Distribution of Cultivation Intensity	-
+Koppen_Geiger	Koppen Geiger	-
+Geological_ages	Geological ages	-
+Soil_types	Soil types (Zobler)	-
